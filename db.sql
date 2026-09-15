@@ -12,3 +12,4 @@ VALUES ('Meel', 'Direito'),
 ('Matt', 'Mecatrônica'),
 ('Jack', 'Administração'),
 ('Luk', 'Desenvolvimento de sistemas');
+SELECT * FROM alunos WHERE id = 3;
